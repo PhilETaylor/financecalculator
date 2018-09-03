@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.2" type="plugin" group="content" method="upgrade">
+	<name>Finance Calculator Embed</name>
+	<author>Phil Taylor</author>
+	<creationDate>2018</creationDate>
+	<copyright>Copyright (C) 2018 Blue Flame Digital Solutions. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>phil@phil-taylor.com</authorEmail>
+	<authorUrl>www.phil-taylor.com</authorUrl>
+	<version>1.0.0</version>
+	<description>No Description Given</description>
+	<files>
+		<filename plugin="financecalculator">financecalculator.php</filename>
+	</files>
+	<languages/>
+	<config>
+		<fields name="params">
+		</fields>
+	</config>
+</extension>
