@@ -1,6 +1,6 @@
 # financecalculator
 
-To add to the car details accordian, add the following code:
+To add to the car details accordion, add the following code:
 
 
 ```
